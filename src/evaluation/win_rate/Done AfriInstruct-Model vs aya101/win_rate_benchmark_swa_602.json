@@ -1,0 +1,6 @@
+{
+    "file": "benchmark_swa_602.json",
+    "model1_win_rate": 17.543859649122805,
+    "model2_win_rate": 49.122807017543856,
+    "tie_rate": 33.33333333333333
+}

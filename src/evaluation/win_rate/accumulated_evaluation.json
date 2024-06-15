@@ -1,0 +1,114 @@
+[
+    {
+        "file": "benchmark_hau_806.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 22.208436724565754,
+        "model2_win_rate": 51.1166253101737,
+        "tie_rate": 26.674937965260547
+    },
+    {
+        "file": "benchmark_ibo_806.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 24.069478908188586,
+        "model2_win_rate": 43.54838709677419,
+        "tie_rate": 32.38213399503722
+    },
+    {
+        "file": "benchmark_kin_806.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 22.332506203473944,
+        "model2_win_rate": 49.50372208436725,
+        "tie_rate": 28.16377171215881
+    },
+    {
+        "file": "benchmark_swa_602.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 17.543859649122805,
+        "model2_win_rate": 49.122807017543856,
+        "tie_rate": 33.33333333333333
+    },
+    {
+        "file": "benchmark_yor_602.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 26.744186046511626,
+        "model2_win_rate": 42.857142857142854,
+        "tie_rate": 30.398671096345513
+    },
+    {
+        "file": "benchmark_zul_602.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 22.425249169435215,
+        "model2_win_rate": 48.17275747508305,
+        "tie_rate": 29.401993355481725
+    },
+    {
+        "file": "benchmark_general.json",
+        "model1":"afri-it-model",
+        "model2":"aya101",
+        "model1_win_rate": 23.1,
+        "model2_win_rate": 50.9,
+        "tie_rate": 26.0
+    },
+    {
+        "file": "benchmark_hau_806.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 32.25806451612903,
+        "model2_win_rate": 43.17617866004963,
+        "tie_rate": 24.56575682382134
+    },
+    {
+        "file": "benchmark_ibo_806.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 24.317617866004962,
+        "model2_win_rate": 44.41687344913151,
+        "tie_rate": 31.265508684863523
+    },
+    {
+        "file": "benchmark_kin_806.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 19.851116625310176,
+        "model2_win_rate": 54.3424317617866,
+        "tie_rate": 25.806451612903224
+    },
+    {
+        "file": "benchmark_swa_602.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 20.59800664451827,
+        "model2_win_rate": 50.498338870431894,
+        "tie_rate": 28.903654485049834
+    },
+    {
+        "file": "benchmark_yor_602.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 24.25249169435216,
+        "model2_win_rate": 45.348837209302324,
+        "tie_rate": 30.398671096345513
+    },
+    {
+        "file": "benchmark_zul_602.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 23.754152823920265,
+        "model2_win_rate": 49.16943521594684,
+        "tie_rate": 27.07641196013289
+    },
+    {
+        "file": "benchmark_general.json",
+        "model1":"afri-it-model",
+        "model2":"mT0",
+        "model1_win_rate": 27.400000000000002,
+        "model2_win_rate": 48.5,
+        "tie_rate": 24.099999999999998
+    }
+]

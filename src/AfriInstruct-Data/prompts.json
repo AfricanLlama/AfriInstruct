@@ -1,0 +1,15 @@
+{
+    "translation": {
+        "basic": "Translate the following text from {{ s_lang }} to {{ t_lang }}: {{ s_text }}",
+        "descriptive": "Translate the following text from {{ s_lang }} to {{ t_lang }}. \n\n{{ s_lang }}: {{ s_text }} \n\n{{ t_lang }}:",
+        "xp3": "{{ s_text }} the previous text is in {{ s_lang }}. Here is a translation to {{ t_lang }}"
+    },
+    "NER": {
+        "standard": "Study this taxonomy for classifying named entities:\n- LOC (Location or physical facilities)\n- ORG (Organizations, corporations or other entities)\n- PER (Names of people)\n- DATE (Date or time)\nIdentify all named entities in the following tokens:\n{{ tokens }}\nAdditionally, you should add B- to the first token of a given entity and I- to subsequent ones if they exist. For tokens that are not named entities, mark them as O.\nAnswer: "
+    },
+    "Summary": {
+        "of_above": "{{ text }}\n\n===\n\nWrite a summary of the text above in {{ lang }}:",
+        "tldr": "{{ text }}\n\nTL;DR in {{ lang }}:",
+        "article": "Article in {{ lang }}: {{ text }}\n\nSummary in {{ lang }}:"
+    }
+}

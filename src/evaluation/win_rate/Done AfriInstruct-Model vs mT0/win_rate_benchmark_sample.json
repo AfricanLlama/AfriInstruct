@@ -1,0 +1,6 @@
+{
+    "file": "benchmark_sample.json",
+    "model1_win_rate": 28.57142857142857,
+    "model2_win_rate": 42.857142857142854,
+    "tie_rate": 28.57142857142857
+}

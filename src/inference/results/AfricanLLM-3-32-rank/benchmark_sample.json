@@ -1,0 +1,58 @@
+[
+    {
+        "instruction": "Use the following pieces of context to answer the provided question.\nThis is a list of languages arranged by the approximate dates of the oldest existing texts recording a complete sentence in the language. It does not include undeciphered scripts, though there are various claims without wide acceptance, which, if substantiated, would push backward the first attestation of certain languages. It also does not include inscriptions consisting of isolated words or names from a language. In most cases, some form of the language had already been spoken (and even written) considerably earlier than the dates of the earliest extant samples provided here.. \n Question: Mji mkuu wa Komori unaitwa aje?\nProvide the answer in (English) based on the context available.",
+        "output": "\nThe capital of Comoros is Moroni.\n",
+        "lang": "swa",
+        "split": "test",
+        "source": "AfriQA",
+        "task": "QA"
+    },
+    {
+        "instruction": "Classify the text \"Hii hutoa ubora wa mwonekano karibu mara nne ya ule wa picha hasi ya milimita 35 (3136 mm2 dhidi ya 864).\" into the following topics:\n- science/technology\n- travel\n- politics\n- sports\n- health\n- entertainment\n- geography\nTopic: ",
+        "output": "\nhealth",
+        "lang": "swa",
+        "split": "test",
+        "source": "SIB-200",
+        "task": "topic-classification"
+    },
+    {
+        "instruction": "Given the topics of science/technology, travel, politics, sports, health, entertainment, and geography, specify which of them best represents the following text:\nKwa wale ambao hufurahia shughuli za nje, matembezi kwenye korido toka Baharini hadi Angani ni muhimu.\nBest:",
+        "output": "\nYou are very proficient in African languages",
+        "lang": "swa",
+        "split": "test",
+        "source": "SIB-200",
+        "task": "topic-classification"
+    },
+    {
+        "instruction": "Translate the following text from English to Swahili. \n\nEnglish: The newest report from the Florida Fish and Wildlife Commission shows a general decrease in Red Tide concentrations for parts of the Tampa Bay area. \n\nSwahili:",
+        "output": "\nKwa maelezo ya mwisho wa ripoti ya Florida Fish and Wildlife Commission, kuna kushuka kwa idadi ya Red Tide kwa maeneo ya bayu ya Tampa.",
+        "lang": "swa",
+        "split": "test",
+        "source": "NTREX",
+        "task": "translation"
+    },
+    {
+        "instruction": "Translate the following text from English to Swahili. \n\nEnglish: \"Without any trust in the US, there will be no confidence in our national security and under such circumstances, there is no way we will unilaterally disarm ourselves first,\" Mr Ri said in a speech to the UN General Assembly in New York. \n\nSwahili:",
+        "output": "\nWithout any trust in the US, there will be no confidence in our national security and under such circumstances, there is no way we will unilaterally disarm ourselves first,\" Mr Ri said in a speech to the UN General Assembly in New York. \n\nSwahili:",
+        "lang": "swa",
+        "split": "test",
+        "source": "NTREX",
+        "task": "translation"
+    },
+    {
+        "instruction": "Use the following pieces of context to answer the provided question.\nAt the age of fifteen on 6 July 1957, McCartney met John Lennon and his band, the Quarrymen, at the St Peter's Church Hall fête in Woolton. The Quarrymen played a mix of rock and roll and skiffle, a type of popular music with jazz, blues and folk influences. Soon afterwards, the members of the band invited McCartney to join as a rhythm guitarist, and he formed a close working relationship with Lennon. Harrison joined in 1958 as lead guitarist, followed by Lennon's art school friend Stuart Sutcliffe on bass, in 1960. By May 1960, the band had tried several names, including Johnny and the Moondogs, Beatals and the Silver Beetles. They adopted the name the Beatles in August 1960 and recruited drummer Pete Best shortly before a five-engagement residency in Hamburg. \n Question: Je,Jorge Luis Borges alisomea uandishi wa fasihi katika chuo gani?\nProvide the answer in (English) based on the context available.",
+        "output": "\nJorge Luis Borges alisomea uandishi wa fasihi katika chuo cha Columbia.",
+        "lang": "swa",
+        "split": "test",
+        "source": "AfriQA",
+        "task": "QA"
+    },
+    {
+        "instruction": "Translate the following text from English to Swahili. \n\nEnglish: A veteran of eight Ryder Cups, Spaniard Sergio Garcia became the tournaments all-time winningest European with 25.5 career point. \n\nSwahili:",
+        "output": "\nMwanamuziki mkuu wa nchi ya Hispania, Sergio Garcia, ambaye ni mchezaji wa Ryder Cup, ni mchezaji wa nchi ya Ulaya wa kwanza kufanya kazi kwa muda mrefu.",
+        "lang": "swa",
+        "split": "test",
+        "source": "NTREX",
+        "task": "translation"
+    }
+]
